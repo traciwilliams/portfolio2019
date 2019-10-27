@@ -1,0 +1,63 @@
+body {
+	width: 1440px;
+	margin: 0 auto;
+	background-color: yellow;
+	font-family: 'Proza Libre', sans-serif;
+
+}
+
+.button  {
+	background-color: #999999; 
+  	border: none;
+  	color: black;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+} 
+
+nav {
+	background-color: purple;
+	
+}
+
+ul > li {
+	display: inline-block;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left:110px;
+	margin-right:110px;
+}
+
+p.lg-words {
+	font-family: 'Montez', cursive;
+	font-size: 300px;
+	color: #D76871;
+	text-align: center;
+}
+
+#skinsalon {
+	color: #ffffff;
+	position: absolute;
+	top: 100px;
+  	right: 250px;
+  	left: 0px;
+}
+
+#bymarilynlee {
+	position: absolute;
+	top: 680px;
+  	right: 0px;
+  	left: 375px;
+}
+
+#firstbutton {
+	position: absolute;
+	top: 750px;
+  	right: 0px;
+  	left: 375px;
+}
+
+/******Hello section******/
+
