@@ -1,9 +1,13 @@
 body {
 	width: 1440px;
 	margin: 0 auto;
+	background: blue;
 	background-color: yellow;
-	font-family: 'Proza Libre', sans-serif;
+	font-family: 'Open Sans', sans-serif;
+}
 
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Proza Libre', sans-serif;
 }
 
 .button  {
@@ -59,5 +63,48 @@ p.lg-words {
   	left: 375px;
 }
 
-/******Hello section******/
+/******About Section******/
+#about {
+	margin-top: 100px;
+}
+
+#hello {
+	margin: 0 auto;
+}
+
+img#marilynall {
+	position: relative;
+	top: 0px;
+  	right: 0px;
+  	left: 320px;
+}
+
+#para1 {
+	position: relative;
+	top: -700px;
+  	right: 0px;
+  	left: 300px;
+}
+
+#para2 {
+	position: relative;
+	top: -300px;
+  	right: 0px;
+  	left: 100px;
+}
+
+#para3 {
+	position: relative;
+	top: -500px;
+  	right: 0px;
+  	left: 900px;
+}
+
+
+
+
+
+
+
+
 
