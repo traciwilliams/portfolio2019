@@ -2,7 +2,7 @@ body {
 	width: 1440px;
 	margin: 0 auto;
 	background: blue;
-	background-color: yellow;
+	/*background-color: yellow;*/
 	font-family: 'Open Sans', sans-serif;
 }
 
@@ -46,20 +46,17 @@ p.lg-words {
 	position: absolute;
 	top: 100px;
   	right: 250px;
-  	left: 0px;
 }
 
 #bymarilynlee {
 	position: absolute;
 	top: 680px;
-  	right: 0px;
   	left: 375px;
 }
 
 #firstbutton {
 	position: absolute;
 	top: 750px;
-  	right: 0px;
   	left: 375px;
 }
 
@@ -74,37 +71,90 @@ p.lg-words {
 
 img#marilynall {
 	position: relative;
-	top: 0px;
-  	right: 0px;
   	left: 320px;
 }
 
 #para1 {
 	position: relative;
 	top: -700px;
-  	right: 0px;
   	left: 300px;
 }
 
 #para2 {
 	position: relative;
 	top: -300px;
-  	right: 0px;
   	left: 100px;
 }
 
 #para3 {
 	position: relative;
 	top: -500px;
-  	right: 0px;
   	left: 900px;
 }
 
+/******Services Section******/
 
+#services {
+	margin-top: 100px;
+}
 
+#makeuppara {
+	position: absolute;
+	background-color: purple;
+	margin-top: -300px;
+	margin-left: 800px;
+}
 
+img#makeupjars {
+	position: relative;
+	top: -250px;
+  	left: 300px;
+}
 
+img#makeupartistry {
+	position: relative;
+	top: -100px;
+	left: 400;
+	right: -250px ;
+	z-index: 1;
+}
 
+#handpara {
+	position: absolute;
+	background-color: green;
+	margin-top: 100px;
+	margin-left: 800px
+}
 
+img#hand {
+	position: relative;
+	top: 100px;
+  	left: 300px;
+}
+
+img#hand2 {
+	position: relative;
+	top: 250px;
+  	left: 250px;
+}
+
+#productspara {
+	position: relative;
+	background-color: white;
+	margin-top: 400px;
+	margin-left: 800px
+}
+
+img#products {
+	position: relative;
+	top: -150px;
+  	left: 300px;
+}
+
+img#products2 {
+	position: relative;
+	top: -50px;
+  	left: 250px;
+}
 
 
