@@ -157,4 +157,29 @@ img#products2 {
   	left: 250px;
 }
 
+/******Days & Times Section******/
+#days {
+	margin-top: 200px;
+}
+
+#hours {
+	margin-top: -50px;
+	margin-bottom: -50px;
+}
+
+table {
+	margin-top: 300px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 80%;
+	text-align: center;
+	line-height: 50px;
+  	color: black;
+}
+
+
+
+
 
