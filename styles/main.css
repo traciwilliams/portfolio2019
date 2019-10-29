@@ -1,7 +1,7 @@
 body {
 	width: 1440px;
 	margin: 0 auto;
-	background: blue;
+/*	background: blue;*/
 	/*background-color: yellow;*/
 	font-family: 'Open Sans', sans-serif;
 }
@@ -43,9 +43,10 @@ p.lg-words {
 
 #skinsalon {
 	color: #ffffff;
+	font-size: 250px;
 	position: absolute;
-	top: 100px;
-  	right: 250px;
+	top: 150px;
+  	right: 500px;
 }
 
 #bymarilynlee {
@@ -179,7 +180,31 @@ table {
   	color: black;
 }
 
+/******Schedule Section******/
+#schedule {
+	margin-top: 250px;
+}
+
+#contact {
+	margin-top: 10px;
+}
+
+#ma2 {
+	margin-top: -300px;
+	margin-left: 150px;
+}
+
+form {
+	text-align: left;
+	width: 50%;
+}
 
 
+#formsection {
+	z-index: 1;
+	position: relative;
+	top: -600px;
+	left: 525px;
+}
 
 
